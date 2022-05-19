@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayaz\\Documents\\work\\ASP Core MVC Course\\PieShop\\PieShop\\PieShop.csproj": {}
+    "C:\\Users\\ayazu\\Documents\\Projects\\ASP.NET\\PieShop\\PieShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayaz\\Documents\\work\\ASP Core MVC Course\\PieShop\\PieShop\\PieShop.csproj": {
+    "C:\\Users\\ayazu\\Documents\\Projects\\ASP.NET\\PieShop\\PieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayaz\\Documents\\work\\ASP Core MVC Course\\PieShop\\PieShop\\PieShop.csproj",
+        "projectUniqueName": "C:\\Users\\ayazu\\Documents\\Projects\\ASP.NET\\PieShop\\PieShop.csproj",
         "projectName": "PieShop",
-        "projectPath": "C:\\Users\\ayaz\\Documents\\work\\ASP Core MVC Course\\PieShop\\PieShop\\PieShop.csproj",
-        "packagesPath": "C:\\Users\\ayaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayaz\\Documents\\work\\ASP Core MVC Course\\PieShop\\PieShop\\obj\\",
+        "projectPath": "C:\\Users\\ayazu\\Documents\\Projects\\ASP.NET\\PieShop\\PieShop.csproj",
+        "packagesPath": "C:\\Users\\ayazu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ayazu\\Documents\\Projects\\ASP.NET\\PieShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ayaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ayazu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

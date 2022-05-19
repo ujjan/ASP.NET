@@ -18,3 +18,23 @@ C:\Users\ayaz\Documents\work\ASP Core MVC Course\PieShop\PieShop\obj\Debug\netco
 C:\Users\ayaz\Documents\work\ASP Core MVC Course\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.dll
 C:\Users\ayaz\Documents\work\ASP Core MVC Course\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.pdb
 C:\Users\ayaz\Documents\work\ASP Core MVC Course\PieShop\PieShop\obj\Debug\netcoreapp3.1\PieShop.genruntimeconfig.cache
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\bin\Debug\netcoreapp3.1\PieShop.StaticWebAssets.xml
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\bin\Debug\netcoreapp3.1\PieShop.exe
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\bin\Debug\netcoreapp3.1\PieShop.deps.json
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\bin\Debug\netcoreapp3.1\PieShop.runtimeconfig.json
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\bin\Debug\netcoreapp3.1\PieShop.runtimeconfig.dev.json
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\bin\Debug\netcoreapp3.1\PieShop.dll
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\bin\Debug\netcoreapp3.1\PieShop.pdb
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\obj\Debug\netcoreapp3.1\PieShop.csproj.AssemblyReference.cache
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\obj\Debug\netcoreapp3.1\PieShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\obj\Debug\netcoreapp3.1\PieShop.AssemblyInfoInputs.cache
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\obj\Debug\netcoreapp3.1\PieShop.AssemblyInfo.cs
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\obj\Debug\netcoreapp3.1\PieShop.csproj.CoreCompileInputs.cache
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\obj\Debug\netcoreapp3.1\PieShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\obj\Debug\netcoreapp3.1\staticwebassets\PieShop.StaticWebAssets.Manifest.cache
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\obj\Debug\netcoreapp3.1\PieShop.RazorTargetAssemblyInfo.cache
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\obj\Debug\netcoreapp3.1\PieShop.dll
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\obj\Debug\netcoreapp3.1\PieShop.pdb
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop\obj\Debug\netcoreapp3.1\PieShop.genruntimeconfig.cache
