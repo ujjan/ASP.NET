@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+PTNZrBFQm09B3EVaatrFfSVd7hdRdL0wKigQDbtIZ1AzxYGaI1Bib1g+mCLOGqtYa/wLsackH6rsdKaJaItFg==",
+  "dgSpecHash": "74Z15tY7Rc/rTfa2qyDGC96dI1pZTiCDYG+a/FCwn0iOem4ctiWGYpCMeToidlOkGsK07sU2pfeayrgN7RhC4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\ayazu\\Documents\\Projects\\ASP.NET\\PieShop\\PieShop.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ayazu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\ayazu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ayazu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ayazu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

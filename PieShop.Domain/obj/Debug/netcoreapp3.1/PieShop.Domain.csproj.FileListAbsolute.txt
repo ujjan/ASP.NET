@@ -1,0 +1,10 @@
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop.Domain\bin\Debug\netcoreapp3.1\PieShop.Domain.deps.json
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop.Domain\bin\Debug\netcoreapp3.1\PieShop.Domain.dll
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop.Domain\bin\Debug\netcoreapp3.1\PieShop.Domain.pdb
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop.Domain\obj\Debug\netcoreapp3.1\PieShop.Domain.csproj.AssemblyReference.cache
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop.Domain\obj\Debug\netcoreapp3.1\PieShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop.Domain\obj\Debug\netcoreapp3.1\PieShop.Domain.AssemblyInfoInputs.cache
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop.Domain\obj\Debug\netcoreapp3.1\PieShop.Domain.AssemblyInfo.cs
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop.Domain\obj\Debug\netcoreapp3.1\PieShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop.Domain\obj\Debug\netcoreapp3.1\PieShop.Domain.dll
+C:\Users\ayazu\Documents\Projects\ASP.NET\PieShop.Domain\obj\Debug\netcoreapp3.1\PieShop.Domain.pdb
